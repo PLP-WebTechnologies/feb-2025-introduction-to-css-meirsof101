@@ -1,0 +1,42 @@
+/* style.css */
+
+/* Element Selector */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #abd1a3;
+}
+
+/* ID Selector */
+#main-heading {
+    color: #333;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #e0e0e0;
+}
+.intro-paragraph {
+    font-size: 1.1em;
+    line-height: 1.6;
+    color: #555;
+}
+
+/* Image styling */
+.styled-image {
+    width: 300px;
+    display: block;
+    margin: 20px auto;
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+}
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #ffffff;
+    color: rgba(8, 95, 47, 0.459);
+    margin-top:20px;
+}
